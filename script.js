@@ -13,3 +13,4 @@ function lejupielade() {
 
     document.body.removeChild(datne);
 }
+alert(lejupielade())
